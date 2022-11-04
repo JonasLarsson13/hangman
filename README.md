@@ -1,1 +1,2 @@
 # hangman
+by speedy kittens
